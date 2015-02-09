@@ -1,0 +1,13 @@
+Creation d un Carnet d adresse:
+
+-ajouter
+-supprimer
+-rechercher
+-modifier
+-Quitter
+
+(la sauvegarde ne fonctionne pas )
+
+Pour lancer l'application lancer le fichier main.py
+
+Attention pour les utilisateur de Windows il faut instaler PyQT et Python27 
